@@ -1,0 +1,61 @@
+Muhammad Ali
+Home
+About
+Projects
+
+
+Hi, I'm Muhammad!
+I'm a Software Developer based in Karachi Pakistan. Working towards creating software that makes life easier and more meaningful.
+
+Projects
+About Me
+Get to know me!
+Hi, my name is Muhammad Ali and I am a highly ambitious, self-motivated, and driven software engineer based in Los Angeles, CA.
+
+
+I graduated from APTECH , Karchi in 2019 with a BS Diploma in Software Development and have been working in the field ever since.
+
+
+I have a wide range of hobbies and passions that keep me busy. From reading, playing sports, traveling, to making YouTube videos, I am always seeking new experiences and love to keep myself engaged and learning new things.
+
+
+I believe that you should never stop growing and that's what I strive to do, I have a passion for technology and a desire to always push the limits of what is possible. I am excited to see where my career takes me and am always open to new opportunities. 🙂
+
+My Skills
+HTML
+
+CSS
+
+JavaScript
+
+TypeScript
+
+Python
+
+React
+
+Next.js
+
+Tailwind CSS
+
+Git
+
+GitHub
+
+Jupyter Notebooks
+
+
+Projects
+
+Thankful Thoughts
+ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.
+
+
+PlatoIO
+PlatoIO is a to do list app that built using the PERN stack.
+
+
+Kator Family Photos
+Kator Family Photos is a photos and video digitization service in the LA area.
+
+© 2023 Muhammad Ali
